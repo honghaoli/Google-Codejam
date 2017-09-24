@@ -246,6 +246,9 @@ void solve() {
     //
     FW();
     // calculate start-end pairs
+
+    output_file << "Case #" << i << ": ";
+    fprintf(out, "Case #%d:", i);
     for (int j = 0; j < Q; ++j) {
       input_file >> V >> U;  // read n and then m.
 //    printVector(E);
@@ -254,10 +257,12 @@ void solve() {
 //      double time = myfunc();
       double time = getT(V-1, U-1);
 
-      output_file << "Case #" << i << ": " << time << endl;
-      fprintf(out, "Case #%d: %f\n", i, time);
+      output_file << time;
+      fprintf(out, " %f", time);
       printf("Case #%d: (%d, %d) %f\n", i, V, U, time);
     }
+    output_file << endl;
+    fprintf(out, "\n");
 
   }
 

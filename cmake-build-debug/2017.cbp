@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="2017"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/honghaoli/Dropbox/cs/google_code_jam/2017/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/honghaoli/Dropbox/cs/google_code_jam/2017/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/honghaoli/Dropbox/cs/google_code_jam/2017/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/honghaoli/Dropbox/cs/google_code_jam/2017/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/honghaoli/Dropbox/cs/google_code_jam/2017/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/honghaoli/Dropbox/cs/google_code_jam/2017/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/honghaoli/Dropbox/cs/google_code_jam/2017/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/honghaoli/Dropbox/cs/google_code_jam/2017/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/honghaoli/Dropbox/cs/google_code_jam/2017/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/honghaoli/Dropbox/cs/google_code_jam/2017/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/honghaoli/Dropbox/cs/google_code_jam/2017/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/honghaoli/Dropbox/cs/google_code_jam/2017/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/honghaoli/Dropbox/cs/google_code_jam/2017/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/honghaoli/Dropbox/cs/google_code_jam/2017/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/honghaoli/Dropbox/cs/google_code_jam/2017/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2017-kickstart-F-1">
+				<Option output="/Users/honghaoli/Dropbox/cs/google_code_jam/2017/cmake-build-debug/2017-kickstart-F-1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/honghaoli/Dropbox/cs/google_code_jam/2017/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/honghaoli/Dropbox/cs/google_code_jam/2017/cmake-build-debug/Makefile&quot;  VERBOSE=1 2017-kickstart-F-1"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/honghaoli/Dropbox/cs/google_code_jam/2017/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/honghaoli/Dropbox/cs/google_code_jam/2017/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/honghaoli/Dropbox/cs/google_code_jam/2017/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2017-kickstart-F-1/fast">
+				<Option output="/Users/honghaoli/Dropbox/cs/google_code_jam/2017/cmake-build-debug/2017-kickstart-F-1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/honghaoli/Dropbox/cs/google_code_jam/2017/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/honghaoli/Dropbox/cs/google_code_jam/2017/cmake-build-debug/Makefile&quot;  VERBOSE=1 2017-kickstart-F-1/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/honghaoli/Dropbox/cs/google_code_jam/2017/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/honghaoli/Dropbox/cs/google_code_jam/2017/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/honghaoli/Dropbox/cs/google_code_jam/2017/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2017-kickstart-F-4">
+				<Option output="/Users/honghaoli/Dropbox/cs/google_code_jam/2017/cmake-build-debug/2017-kickstart-F-4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/honghaoli/Dropbox/cs/google_code_jam/2017/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/honghaoli/Dropbox/cs/google_code_jam/2017/cmake-build-debug/Makefile&quot;  VERBOSE=1 2017-kickstart-F-4"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/honghaoli/Dropbox/cs/google_code_jam/2017/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/honghaoli/Dropbox/cs/google_code_jam/2017/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/honghaoli/Dropbox/cs/google_code_jam/2017/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2017-kickstart-F-4/fast">
+				<Option output="/Users/honghaoli/Dropbox/cs/google_code_jam/2017/cmake-build-debug/2017-kickstart-F-4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/honghaoli/Dropbox/cs/google_code_jam/2017/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/honghaoli/Dropbox/cs/google_code_jam/2017/cmake-build-debug/Makefile&quot;  VERBOSE=1 2017-kickstart-F-4/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/honghaoli/Dropbox/cs/google_code_jam/2017/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/honghaoli/Dropbox/cs/google_code_jam/2017/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/honghaoli/Dropbox/cs/google_code_jam/2017/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2017-kickstart-F-2">
+				<Option output="/Users/honghaoli/Dropbox/cs/google_code_jam/2017/cmake-build-debug/2017-kickstart-F-2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/honghaoli/Dropbox/cs/google_code_jam/2017/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/honghaoli/Dropbox/cs/google_code_jam/2017/cmake-build-debug/Makefile&quot;  VERBOSE=1 2017-kickstart-F-2"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/honghaoli/Dropbox/cs/google_code_jam/2017/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/honghaoli/Dropbox/cs/google_code_jam/2017/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/honghaoli/Dropbox/cs/google_code_jam/2017/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2017-kickstart-F-2/fast">
+				<Option output="/Users/honghaoli/Dropbox/cs/google_code_jam/2017/cmake-build-debug/2017-kickstart-F-2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/honghaoli/Dropbox/cs/google_code_jam/2017/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/honghaoli/Dropbox/cs/google_code_jam/2017/cmake-build-debug/Makefile&quot;  VERBOSE=1 2017-kickstart-F-2/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/honghaoli/Dropbox/cs/google_code_jam/2017/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/honghaoli/Dropbox/cs/google_code_jam/2017/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/honghaoli/Dropbox/cs/google_code_jam/2017/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2017-kickstart-F-3">
+				<Option output="/Users/honghaoli/Dropbox/cs/google_code_jam/2017/cmake-build-debug/2017-kickstart-F-3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/honghaoli/Dropbox/cs/google_code_jam/2017/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/honghaoli/Dropbox/cs/google_code_jam/2017/cmake-build-debug/Makefile&quot;  VERBOSE=1 2017-kickstart-F-3"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/honghaoli/Dropbox/cs/google_code_jam/2017/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/honghaoli/Dropbox/cs/google_code_jam/2017/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/honghaoli/Dropbox/cs/google_code_jam/2017/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2017-kickstart-F-3/fast">
+				<Option output="/Users/honghaoli/Dropbox/cs/google_code_jam/2017/cmake-build-debug/2017-kickstart-F-3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/honghaoli/Dropbox/cs/google_code_jam/2017/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/honghaoli/Dropbox/cs/google_code_jam/2017/cmake-build-debug/Makefile&quot;  VERBOSE=1 2017-kickstart-F-3/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/honghaoli/Dropbox/cs/google_code_jam/2017/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/honghaoli/Dropbox/cs/google_code_jam/2017/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/honghaoli/Dropbox/cs/google_code_jam/2017/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/honghaoli/Dropbox/cs/google_code_jam/2017/2017-kickstart-F/1/main.cpp">
+			<Option target="2017-kickstart-F-1"/>
+		</Unit>
+		<Unit filename="/Users/honghaoli/Dropbox/cs/google_code_jam/2017/2017-kickstart-F/2/main.cpp">
+			<Option target="2017-kickstart-F-2"/>
+		</Unit>
+		<Unit filename="/Users/honghaoli/Dropbox/cs/google_code_jam/2017/2017-kickstart-F/3/main.cpp">
+			<Option target="2017-kickstart-F-3"/>
+		</Unit>
+		<Unit filename="/Users/honghaoli/Dropbox/cs/google_code_jam/2017/2017-kickstart-F/4/main.cpp">
+			<Option target="2017-kickstart-F-4"/>
+		</Unit>
+		<Unit filename="/Users/honghaoli/Dropbox/cs/google_code_jam/2017/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

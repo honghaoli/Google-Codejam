@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/honghaoli/Dropbox/cs/google_code_jam/2017
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/honghaoli/Dropbox/cs/google_code_jam/2017/cmake-build-debug

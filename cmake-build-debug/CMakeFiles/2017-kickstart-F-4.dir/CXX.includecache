@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/honghaoli/Dropbox/cs/google_code_jam/2017/2017-kickstart-F/4/main.cpp
+iostream
+-
+fstream
+-
+vector
+-
+queue
+-
+unordered_map
+-
+limits
+-
+
